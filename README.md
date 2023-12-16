@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Node js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GoldieCrystal/ToDoCoach](https://github.com/GoldieCrystal/ToDoCoach)
+- 👨‍💻 All of my projects are available at [https://github.com/aghe-eng](https://github.com/aghe-eng)
 
 - ⚡ Fun fact [I love listening to music, I also love social service, I love to read](I love listening to music, I also love social service, I love to read)
 
