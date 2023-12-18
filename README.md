@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aghe-eng&label=Profile%20views&color=0e75b6&style=flat" alt="aghe-eng" /> </p>
 
-- 🔭 I’m currently working on **a community blog**
+- 🔭 I’m currently working on **a community blog App**
 
-- 🌱 I’m currently learning **JavaScript, React, Node js**
+- 🌱 I’m currently learning **JavaScript (React, Node js)**
 
 - 👯 I’m looking to collaborate on **building a dating App**
-
-- 🌱 I’m currently learning **JavaScript, React, Node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aghe-eng](https://github.com/aghe-eng)
 
