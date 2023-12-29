@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ehiaghe Aisiri</h1>
-<h3 align="center">A passionate full-stack web developer with a finance background</h3>
+<h3 align="center">A passionate web developer with a finance background</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aghe-eng&label=Profile%20views&color=0e75b6&style=flat" alt="aghe-eng" /> </p>
 
