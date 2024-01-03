@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aghe-eng&label=Profile%20views&color=0e75b6&style=flat" alt="aghe-eng" /> </p>
 
-- 🔭 I’m currently working on **a community blog App - TalkSphere**
+- 🔭 I’m currently working on **a community forum App - TalkSphere**
 
 - 🌱 I’m currently learning **JavaScript (React, Node js)**
 
