@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aghe-eng](https://github.com/aghe-eng)
 
-- ⚡ Fun fact [I love listening to music, I also love social service, I love to read](I love listening to music, I also love social service, I love to read)
+- ⚡ Fun fact [I love listening to music, I also love community service, I love to read](I love listening to music, I also love community service, I love to read)
 
 - 💬 Ask me about **Vue js, Stimulus js, HTML5 CSS Ruby on Rails**
 
